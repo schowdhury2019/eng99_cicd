@@ -22,3 +22,9 @@ https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450
 
 
 ![image](https://user-images.githubusercontent.com/14828358/145244595-164a57eb-86a5-4365-8605-8d6db127a736.png)
+
+
+# Automate second job
+
+![image](https://user-images.githubusercontent.com/14828358/145245418-cdee5fd7-8b0d-45ed-aa9d-fb0fbb0e4e26.png)
+
