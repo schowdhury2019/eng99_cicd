@@ -6,6 +6,7 @@ https://www.jenkins.io/doc/book/installing/
 
 ![image](https://user-images.githubusercontent.com/14828358/145252206-5c7de9ae-01ed-4f06-b40b-0eef62c43fd7.png)
 
+![image](https://user-images.githubusercontent.com/14828358/145252725-c2aecc73-a3c1-4cb8-ab3a-2b503a971d91.png)
 
 New Job in Jenkins
 
