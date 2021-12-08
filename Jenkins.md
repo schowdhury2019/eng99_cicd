@@ -2,6 +2,11 @@
 
 https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450
 
+https://www.jenkins.io/doc/book/installing/
+
+![image](https://user-images.githubusercontent.com/14828358/145252206-5c7de9ae-01ed-4f06-b40b-0eef62c43fd7.png)
+
+
 New Job in Jenkins
 
 ![image](https://user-images.githubusercontent.com/14828358/145242226-ea5c36b2-9c4a-459d-92a1-70ca9d416e9d.png)
