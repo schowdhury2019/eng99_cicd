@@ -90,6 +90,5 @@ Configure webhook to always listen to github so it pulls any changes
 
 ![image](https://user-images.githubusercontent.com/14828358/145395612-3281fbe4-9e45-477a-be4a-45364132c030.png)
 
-![image](https://user-images.githubusercontent.com/14828358/145395746-90545d03-d064-4f4c-9936-4046fed6e99e.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/145395783-742ad273-ae3c-4e8a-82c4-30c3356d6f92.png)
