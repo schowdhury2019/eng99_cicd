@@ -33,4 +33,16 @@ public key on git repo
 - click allow write access box
 - click add key
 
+
+![image](https://user-images.githubusercontent.com/14828358/145390483-fa2251b6-e1a6-4fcd-b08d-50fa8ad2e0db.png)
+
 ![image](https://user-images.githubusercontent.com/14828358/145387498-8c7df23d-2cbd-407e-9eaf-67c0dcc424c2.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/145390524-d0223c95-155f-4253-a38d-f09f24f1d202.png)
+
+
+
+
+
+
