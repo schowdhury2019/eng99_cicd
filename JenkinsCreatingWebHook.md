@@ -93,23 +93,5 @@ Configure webhook to always listen to github so it pulls any changes
 
 ![image](https://user-images.githubusercontent.com/14828358/145395783-742ad273-ae3c-4e8a-82c4-30c3356d6f92.png)
 
-# Task
-
-- Create another job called `sunny_ci_merge` in jenkins
-- change from main to dev in localhost
-- make any changes in your readme on localhost and push to github
-- if tests pass it should trigger next job, `sunny_ci_merge`
-- job should merge code from dev to main
-
---------------------------------------------
-
-- 3rd job CD/CDE should get the code from main
-- deliver to AWS EC2 instance
-- cd app
-- npm install
-- npm start
-- 
-
-
 
 
