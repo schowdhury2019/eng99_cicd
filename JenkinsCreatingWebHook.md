@@ -17,7 +17,7 @@ public key on git repo
 
 ![image](https://user-images.githubusercontent.com/14828358/145386524-d8790539-af45-4ba9-b4df-e6cc54d4246d.png)
 
-- test
+- Generate public and private key
 
 
 ![image](https://user-images.githubusercontent.com/14828358/145387297-70162a45-7849-40b0-9764-d4d197b28d9e.png)
@@ -25,6 +25,6 @@ public key on git repo
 
 ![image](https://user-images.githubusercontent.com/14828358/145387218-905e9326-2195-4099-8696-ced4722653ea.png)
 
-
+- test
 
 ![image](https://user-images.githubusercontent.com/14828358/145387498-8c7df23d-2cbd-407e-9eaf-67c0dcc424c2.png)
