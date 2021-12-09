@@ -34,12 +34,28 @@ public key on git repo
 - click add key
 
 
-![image](https://user-images.githubusercontent.com/14828358/145390483-fa2251b6-e1a6-4fcd-b08d-50fa8ad2e0db.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/145387498-8c7df23d-2cbd-407e-9eaf-67c0dcc424c2.png)
 
+![image](https://user-images.githubusercontent.com/14828358/145390483-fa2251b6-e1a6-4fcd-b08d-50fa8ad2e0db.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/145390524-d0223c95-155f-4253-a38d-f09f24f1d202.png)
+
+
+## Test Commands on agent node
+
+![image](https://user-images.githubusercontent.com/14828358/145390765-66463f13-ab70-43db-8771-b9f961425779.png)
+
+get ssh
+
+![image](https://user-images.githubusercontent.com/14828358/145390912-119c8afe-00be-4262-b3cf-18b9364ced63.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145391501-2c84d485-c7d7-4abc-b07e-224b32b6334b.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145391325-f19c4e6f-6c0d-4633-b661-e7e43225cfd2.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145391447-1665c4d2-f914-4406-bd4f-f36509bd93fc.png)
+
 
 
 
