@@ -13,4 +13,7 @@
 - cd app
 - npm install
 - npm start
-- 
+-
+
+![image](https://user-images.githubusercontent.com/14828358/145427325-33a9ac0c-dd28-4f30-add1-f2a0b956756f.png)
+
