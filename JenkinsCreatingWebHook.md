@@ -26,6 +26,10 @@ public key on git repo
 ![image](https://user-images.githubusercontent.com/14828358/145387218-905e9326-2195-4099-8696-ced4722653ea.png)
 
 - Paste public key into text box, 
+
+![image](https://user-images.githubusercontent.com/14828358/145388926-79b91786-2d0f-4e15-80b1-9d2ed7d36381.png)
+
+
 - click allow write access box
 - click add key
 
