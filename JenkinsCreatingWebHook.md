@@ -59,6 +59,28 @@ get ssh
 
 
 
+![image](https://user-images.githubusercontent.com/14828358/145391738-f6fb6f88-8059-4376-9294-88d35aadd136.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145391784-4896d3b4-8912-43bd-bca7-f6b46129611b.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/145391873-40eeca68-2828-45f1-9e72-b2d426e8d5bb.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145391926-b335954e-8479-4e38-92a2-41d1e2d530a4.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145392130-631022f9-a47c-421a-a752-8019cd2911b3.png)
+
+Apply and Save
+
+Build Now
+
+![image](https://user-images.githubusercontent.com/14828358/145392330-20677fd0-e1a1-4279-9b70-8c2f657f7abc.png)
+
+
+jenkins clones everything from github using the ssh pipeline we allowed
+
+![image](https://user-images.githubusercontent.com/14828358/145394100-aa6044fb-e5c9-45d0-bf11-00abfacf3eb5.png)
+
 
 
 
