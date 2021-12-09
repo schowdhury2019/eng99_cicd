@@ -25,6 +25,8 @@ public key on git repo
 
 ![image](https://user-images.githubusercontent.com/14828358/145387218-905e9326-2195-4099-8696-ced4722653ea.png)
 
-- Paste public key into text box, click add key
+- Paste public key into text box, 
+- click give write permission box
+- click add key
 
 ![image](https://user-images.githubusercontent.com/14828358/145387498-8c7df23d-2cbd-407e-9eaf-67c0dcc424c2.png)
