@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/14828358/145585263-470520cc-d714-4420-9351-505078528c8a.png)
 
 - Paste the content into the Key text box
-- Click 'Allow write access'
+- Click `Allow write access`
 - Click `Add key`
 
 ![image](https://user-images.githubusercontent.com/14828358/145586821-bdd9ad4a-94fe-4fa8-8990-8c1f5aa621fe.png)
