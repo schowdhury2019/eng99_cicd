@@ -43,10 +43,10 @@
 ![image](https://user-images.githubusercontent.com/14828358/145589068-2001a47e-fe64-4026-bc1b-ed3c5261fea9.png)
 
 
-# Step 4: Jenkins Jobs
+# Step 4: Configure Jenkins Job
 
 - Create a new job on jenkins
-- `New Item` -> `Freestyle Project`
+- `New Item` -> Name it -> `Freestyle Project`
 
 ## General
 
@@ -105,8 +105,15 @@ Private Key: add content of private key (id_rsa)
 Click Apply -> Click Save
 
 
+# Step 5: Test the job
+
+- Make a change to the git dev branch on localhost and push it to the git repo
+
+![image](https://user-images.githubusercontent.com/14828358/145602161-5ff60281-891f-4619-94b2-2142dff105b2.png)
+
+- Back on jenkins, the server gets sent to a queue
 
 
-
+![image](https://user-images.githubusercontent.com/14828358/145601533-bb5123b5-8aaf-41c4-82f8-161efb68df91.png)
 
 
