@@ -74,7 +74,11 @@ Private Key: add content of private key (id_rsa)
 ![image](https://user-images.githubusercontent.com/14828358/145592240-320e4003-a4e6-4d39-ae31-7d166dabeea9.png)
 
 
-click Add
+- click Add
+- Select the key you made
+- Specify branch you want to build from
+
+![image](https://user-images.githubusercontent.com/14828358/145592870-ebe97c15-b0ea-48f2-be08-a47a051fab5d.png)
 
 
 
