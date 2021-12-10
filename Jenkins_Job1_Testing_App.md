@@ -80,8 +80,11 @@ Private Key: add content of private key (id_rsa)
 
 ![image](https://user-images.githubusercontent.com/14828358/145592870-ebe97c15-b0ea-48f2-be08-a47a051fab5d.png)
 
+## Build Trigger
 
+- Click Github hook trigger for GITScm polling
 
+![image](https://user-images.githubusercontent.com/14828358/145593203-b6be569b-b754-4f21-a8ba-82cc03e15611.png)
 
 
 
