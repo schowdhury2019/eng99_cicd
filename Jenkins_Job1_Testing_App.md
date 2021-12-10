@@ -109,11 +109,33 @@ Click Apply -> Click Save
 
 - Make a change to the git dev branch on localhost and push it to the git repo
 
-![image](https://user-images.githubusercontent.com/14828358/145602161-5ff60281-891f-4619-94b2-2142dff105b2.png)
+![image](https://user-images.githubusercontent.com/14828358/145601533-bb5123b5-8aaf-41c4-82f8-161efb68df91.png)
+
 
 - Back on jenkins, the server gets sent to a queue
 
 
-![image](https://user-images.githubusercontent.com/14828358/145601533-bb5123b5-8aaf-41c4-82f8-161efb68df91.png)
+![image](https://user-images.githubusercontent.com/14828358/145602161-5ff60281-891f-4619-94b2-2142dff105b2.png)
+
+- colour of the Sphere represent build success
+- Blue -> Success
+- Red -> Failure
+
+![image](https://user-images.githubusercontent.com/14828358/145602506-483624ce-a1ba-474f-8ee1-b70a1202e27c.png)
+
+- Click on project -> click on Workspace
+- Jenkins clones the repo that you have set up on git hub which it uses to build and test the job
+
+![image](https://user-images.githubusercontent.com/14828358/145602777-e6deea35-6da3-4802-b51b-648552d459e5.png)
+
+- click the number on build history
+
+![image](https://user-images.githubusercontent.com/14828358/145602905-5e9f2f52-0df2-43d6-8c6e-2f586f7e4d2b.png)
+
+- Click on Console Output
+- Here you can check errors if build failures
+
+![image](https://user-images.githubusercontent.com/14828358/145603051-7b08fa8e-106e-4dbb-889f-574d6df53d0a.png)
+
 
 
