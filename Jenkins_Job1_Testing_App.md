@@ -8,6 +8,17 @@
 - Create Jenkins job to test application
 
 
-## Step 1: Creating secure channel between localhost and git repo
+## Step 1: Generate SSH key pair
 
-- Generate an ssh key pair (for windows) with `ssh-keygen -t -C "<your_email>"`
+- Generate an ssh key pair in .ssh folder with 
+    for windows `ssh-keygen -t -C "<your_email>"`
+- This will generate a public (id_rsa.pub) and private (id_rsa) key 
+
+## Step 2: Secure SSH Connection by Adding Public Key to Your GitHub Repo
+
+- On the git repo you want to connect with:
+    `Setting` -> `Deploy keys` -> `Add deploy`
+
+![image](https://user-images.githubusercontent.com/14828358/145585263-470520cc-d714-4420-9351-505078528c8a.png)
+
+- Copy the
