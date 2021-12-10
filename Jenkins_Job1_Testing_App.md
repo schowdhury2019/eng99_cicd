@@ -87,10 +87,22 @@ Private Key: add content of private key (id_rsa)
 ![image](https://user-images.githubusercontent.com/14828358/145593203-b6be569b-b754-4f21-a8ba-82cc03e15611.png)
 
 
+## Build Environment
+
+- Click Provide Node & npm bin/folder to PATH
+- Do nothing else and move on
+
+![image](https://user-images.githubusercontent.com/14828358/145593740-8d488861-8cc9-4d36-af26-263dd1174f45.png)
+
+## Build
+
+- Build -> Execute Shell
+- Enter the commands to start the app
+
+![image](https://user-images.githubusercontent.com/14828358/145593885-59dd6e4a-676f-49f8-bd0f-7ba526ddd9d5.png)
 
 
-
-
+Click Apply -> Click Save
 
 
 
