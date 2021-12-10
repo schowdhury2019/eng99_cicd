@@ -48,18 +48,33 @@
 - Create a new job on jenkins
 - `New Item` -> `Freestyle Project`
 
+## General
+
 ![image](https://user-images.githubusercontent.com/14828358/145590556-320d7a4d-881e-4c0e-b525-9da794d55d1d.png)
+
+## Office 365 Connector
 
 ![image](https://user-images.githubusercontent.com/14828358/145590718-8efa9eca-5013-42ad-be90-a9cb467f86a4.png)
 
+## Source Code Management
+
+- Enter ssh link of repo in Repository URL
+- On credential click Add -> Jenkins
+
+![image](https://user-images.githubusercontent.com/14828358/145591812-908e0078-5670-4ae0-b235-ca6f38b235ad.png)
 
 
 
+Kind: SSH Username with private key 
+ID: Name the key
+Private Key: add content of private key (id_rsa)
+
+![image](https://user-images.githubusercontent.com/14828358/145592151-6e31503c-0e42-4db3-978d-82e3c6790652.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145592240-320e4003-a4e6-4d39-ae31-7d166dabeea9.png)
 
 
-
-
-
+click Add
 
 
 
