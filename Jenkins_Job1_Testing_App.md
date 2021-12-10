@@ -29,3 +29,39 @@
 - Click `Add key`
 
 ![image](https://user-images.githubusercontent.com/14828358/145586821-bdd9ad4a-94fe-4fa8-8990-8c1f5aa621fe.png)
+
+# Step 3: Add Webhook
+
+- Webhooks allow intereaction between web-based applications through the use of custom callback. 
+- In this case, we weant to allow git to automaticaly communicate with Jenkins whenever work has been pushed onto the git repo (dev branch)
+
+
+![image](https://user-images.githubusercontent.com/14828358/145588542-fa4aff4b-781a-45a3-88e3-b580177bbc6b.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
