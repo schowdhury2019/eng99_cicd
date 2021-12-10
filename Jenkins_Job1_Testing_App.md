@@ -34,12 +34,23 @@
 
 - Webhooks allow intereaction between web-based applications through the use of custom callback. 
 - In this case, we weant to allow git to automaticaly communicate with Jenkins whenever work has been pushed onto the git repo (dev branch)
-
+- `Settings` -> `Webhooks` -> `Add webhook`
 
 ![image](https://user-images.githubusercontent.com/14828358/145588542-fa4aff4b-781a-45a3-88e3-b580177bbc6b.png)
 
+- Add the custom webhook url into the Payload URL box
+
+![image](https://user-images.githubusercontent.com/14828358/145589068-2001a47e-fe64-4026-bc1b-ed3c5261fea9.png)
 
 
+# Step 4: Jenkins Jobs
+
+- Create a new job on jenkins
+- `New Item` -> `Freestyle Project`
+
+![image](https://user-images.githubusercontent.com/14828358/145590556-320d7a4d-881e-4c0e-b525-9da794d55d1d.png)
+
+![image](https://user-images.githubusercontent.com/14828358/145590718-8efa9eca-5013-42ad-be90-a9cb467f86a4.png)
 
 
 
