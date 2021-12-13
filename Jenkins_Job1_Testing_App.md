@@ -15,7 +15,7 @@
 
 ## Step 1: Generate SSH key pair
 
-- Generate an ssh key pair in .ssh folder with: (for windows) `ssh-keygen -t -C "<your_email>"`
+- Generate an ssh key pair in .ssh folder with: (for windows) `ssh-keygen -t rsa -b 4096 -C <comment>`
 - This will generate a public (id_rsa.pub) and private (id_rsa) key 
 
 ## Step 2: Secure SSH Connection by Adding Public Key to Your GitHub Repo
