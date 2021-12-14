@@ -12,3 +12,6 @@ Have to trigger from the previous job
 For some reason pm2 doesn't use the /posts properly...
 
 ![image](https://user-images.githubusercontent.com/14828358/145976747-e49fc4dd-3c64-49e5-a2e2-208f6e96c237.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/145977775-56383d03-9ac0-4f6e-939e-7932c2ffdaca.png)
