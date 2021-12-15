@@ -8,8 +8,3 @@
 ![image](https://user-images.githubusercontent.com/14828358/145618493-c2959fb9-d0c5-4baf-8b94-c9c15b80edc2.png)
 
 
-
-
-Security Group for the Database that allows traffice via Nat network
-
-![image](https://user-images.githubusercontent.com/14828358/145975786-1923b1e1-d6ad-4ab6-b8ac-cf87289af571.png)
