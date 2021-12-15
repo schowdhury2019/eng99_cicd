@@ -1,5 +1,10 @@
 # Creating a CICD(e) Pipeline Localhost -> Git -> Jenkins -> AWS
 
+## Final Infastructure
+
+![image](https://user-images.githubusercontent.com/14828358/146235425-caefdc81-54a5-4394-aa7a-090e2a2eccd8.png)
+
+
 ## Job 1: Cloning and Testing Code on Jenkins Server
 
 ![image](https://user-images.githubusercontent.com/14828358/145607674-68c1f96f-d6e0-412d-8e66-c885b333eceb.png)
