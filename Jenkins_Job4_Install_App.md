@@ -11,7 +11,6 @@ Have to trigger from the previous job
 
 For some reason pm2 doesn't use the /posts properly...
 
-replaced the `pm2 kill` with `pm2 delete all`
 
+![image](https://user-images.githubusercontent.com/14828358/146233643-98e65317-bd95-470e-a355-623123fb3050.png)
 
-![image](https://user-images.githubusercontent.com/14828358/145977775-56383d03-9ac0-4f6e-939e-7932c2ffdaca.png)
