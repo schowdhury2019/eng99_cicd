@@ -2,8 +2,7 @@
 
 ## Final Infastructure
 
-![image](https://user-images.githubusercontent.com/14828358/146235425-caefdc81-54a5-4394-aa7a-090e2a2eccd8.png)
-
+![image](https://user-images.githubusercontent.com/14828358/146351153-87c6d424-c3b1-4602-8eb7-e92decbff1f8.png)
 
 ## Job 1: Cloning and Testing Code on Jenkins Server
 
